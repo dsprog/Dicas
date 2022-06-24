@@ -13,8 +13,8 @@
 * spatie - (https://spatie.be)
 * powergrid - (https://github.com/Power-Components/livewire-powergrid)
 
-
 ## DASHBOARD
 
 * coreui - (https://coreui.io)
 * voyager - (https://voyager.devdojo.com)
+* jetstrap AdminLTE e CORE UI - (https://github.com/nascent-africa/jetstrap)
