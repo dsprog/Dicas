@@ -10,3 +10,7 @@
 
 * coreui - (https://coreui.io)
 * adminlte - (https://adminlte.io/)
+
+## JAVASCRIPT
+
+* Mascara Input (https://github.com/beholdr/maska)
