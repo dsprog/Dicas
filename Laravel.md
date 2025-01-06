@@ -13,6 +13,7 @@
 * spatie - (https://spatie.be)
 * powergrid - (https://github.com/Power-Components/livewire-powergrid)
 * crudapi - (https://github.com/BinarCode/laravel-restify)
+* ecommerce - (https://lunarphp.io)
 
 ## DASHBOARD
 
