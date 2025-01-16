@@ -15,6 +15,7 @@
 * powergrid - (https://github.com/Power-Components/livewire-powergrid)
 * crudapi - (https://github.com/BinarCode/laravel-restify)
 * ecommerce - (https://lunarphp.io)
+* shorturl - (https://github.com/luadotsh/lua)
 
 ## DASHBOARD
 
