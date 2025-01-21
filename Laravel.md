@@ -7,6 +7,7 @@
 * flowbite - (https://flowbite.com)
 * wireui - (https://livewire-wireui.com)
 * devdojo/pines - (https://devdojo.com/pines)
+* tallstackui - (https://tallstackui.com)
 
 
 ## PACKAGES
