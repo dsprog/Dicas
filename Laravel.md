@@ -9,7 +9,7 @@
 * devdojo/pines - (https://devdojo.com/pines)
 * tallstackui - (https://tallstackui.com)
 * fluxui - (https://fluxui.dev)
-
+* bladewindui - (https://bladewindui.com/)
 
 ## PACKAGES
 
@@ -25,4 +25,4 @@
 * coreui - (https://coreui.io)
 * voyager - (https://voyager.devdojo.com)
 * jetstrap AdminLTE e CORE UI - (https://github.com/nascent-africa/jetstrap)
-* Git Starter Kits List (https://github.com/tnylea/laravel-new?tab=readme-ov-file)
+* Git Starter Kits List (https://github.com/tnylea/laravel-new)
