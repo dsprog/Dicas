@@ -19,6 +19,7 @@
 * ecommerce - (https://lunarphp.io)
 * shorturl - (https://github.com/luadotsh/lua)
 * powergrid - (https://github.com/Power-Components/livewire-powergrid)
+* aureuserp (https://aureuserp.com/)
 
 ## DASHBOARD
 
