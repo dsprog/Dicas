@@ -10,6 +10,7 @@
 * tallstackui - (https://tallstackui.com)
 * fluxui - (https://fluxui.dev)
 * bladewindui - (https://bladewindui.com/)
+* zinq - (https://zinq.dev)
 
 ## PACKAGES
 
