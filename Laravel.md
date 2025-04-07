@@ -22,6 +22,7 @@
 * powergrid - (https://github.com/Power-Components/livewire-powergrid)
 * aureuserp (https://aureuserp.com/)
 * tenancyforlaravel (https://tenancyforlaravel.com/)
+* devdojo auth (https://devdojo.com/auth)
 
 ## DASHBOARD
 
