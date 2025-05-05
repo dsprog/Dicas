@@ -5,7 +5,7 @@
 * meraki ui - (https://merakiui.com)
 * pines ui - (https://devdojo.com/pines)
 * UI Thing Vue - (https://ui-thing.behonbaker.com/getting-started/introduction)
-
+* flyonui (https://flyonui.com/)
 
 ## DASHBOARD
 
