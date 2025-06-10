@@ -31,3 +31,4 @@
 * jetstrap AdminLTE e CORE UI - (https://github.com/nascent-africa/jetstrap)
 * Git Starter Kits List (https://github.com/tnylea/laravel-new)
 * LaravelDaily starter-kit (https://github.com/LaravelDaily/starter-kit)
+* Guacpanel (https://github.com/otatechie/guacpanel-tailwind)
