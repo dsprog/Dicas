@@ -20,3 +20,6 @@
 
 ## Plugins
 * Chat multi whatsapp (https://br.wordpress.org/plugins/master-whats-chat/)
+
+## Dicas
+* Menu icone social [link](https://learnhowwp.com/how-to-add-icons-to-the-divi-menu/)
