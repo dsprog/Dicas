@@ -22,4 +22,4 @@
 * Chat multi whatsapp [link](https://br.wordpress.org/plugins/master-whats-chat/)
 
 ## Dicas
-* Menu icone social [link]([https://learnhowwp.com/how-to-add-icons-to-the-divi-menu/](https://www.peeayecreative.com/how-to-add-icons-to-the-divi-menu/))
+* Menu icone social [link](https://www.peeayecreative.com/how-to-add-icons-to-the-divi-menu/)
