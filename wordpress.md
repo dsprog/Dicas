@@ -15,7 +15,7 @@
 * Logo Carousel [link](https://www.elegantthemes.com/modules/logo-carousel/)
 
 ## Divi Comprados
-* Divi Blog (https://www.elegantthemes.com/marketplace/ultimate-divi-blog-modules-ui-bundle/)
+* Divi Blog [link](https://www.elegantthemes.com/marketplace/ultimate-divi-blog-modules-ui-bundle/)
 * Divi Gear Carousel [link](https://www.divigear.com/product/divi-carousel-module/)
 
 ## Plugins
