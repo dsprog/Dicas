@@ -20,6 +20,7 @@
 
 ## Plugins
 * Chat multi whatsapp [link](https://br.wordpress.org/plugins/master-whats-chat/)
+* Post Fake (https://wordpress.org/plugins/wp-dummy-content-generator/)
 
 ## Dicas
 * Menu icone social [link](https://www.peeayecreative.com/how-to-add-icons-to-the-divi-menu/)
