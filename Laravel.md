@@ -23,6 +23,7 @@
 * aureuserp (https://aureuserp.com/)
 * tenancyforlaravel (https://tenancyforlaravel.com/)
 * devdojo auth (https://devdojo.com/auth)
+* tenancy-dominios (https://github.com/gecche/laravel-multidomain)
 
 ## DASHBOARD
 
