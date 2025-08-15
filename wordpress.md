@@ -24,4 +24,5 @@
 
 ## Dicas
 * Menu icone social [link](https://www.peeayecreative.com/how-to-add-icons-to-the-divi-menu/)
-* Medida imagem (https://www.peeayecreative.com/how-to-stop-divi-image-crop/)
+* Divi - Medida imagem (https://www.peeayecreative.com/how-to-stop-divi-image-crop/)
+* Divi - Media imagem css (https://www.peeayecreative.com/change-the-divi-blog-image-aspect-ratio/)
