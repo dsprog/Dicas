@@ -24,6 +24,7 @@
 * tenancyforlaravel (https://tenancyforlaravel.com/)
 * devdojo auth (https://devdojo.com/auth)
 * tenancy-dominios (https://github.com/gecche/laravel-multidomain)
+* link download expire (https://github.com/Grazulex/laravel-sharelink)
 
 ## DASHBOARD
 
