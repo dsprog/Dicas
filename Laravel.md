@@ -25,6 +25,7 @@
 * devdojo auth (https://devdojo.com/auth)
 * tenancy-dominios (https://github.com/gecche/laravel-multidomain)
 * link download expire (https://github.com/Grazulex/laravel-sharelink)
+* Saas (https://github.com/php-saas/php-saas)
 
 ## OTHERS
 Exemplos Filament (https://filamentexamples.com/)
