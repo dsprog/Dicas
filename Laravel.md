@@ -26,6 +26,9 @@
 * tenancy-dominios (https://github.com/gecche/laravel-multidomain)
 * link download expire (https://github.com/Grazulex/laravel-sharelink)
 
+## OTHERS
+Exemplos Filament (https://filamentexamples.com/)
+
 ## DASHBOARD
 
 * coreui - (https://coreui.io)
