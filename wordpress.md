@@ -13,6 +13,7 @@
 * Before & After Image [link](https://www.elegantthemes.com/modules/before-after-image/)
 * Divi Supreme [link](https://www.elegantthemes.com/marketplace/author/divi-supreme/)
 * Logo Carousel [link](https://www.elegantthemes.com/modules/logo-carousel/)
+* Divi acf gallery [link](https://www.elegantthemes.com/marketplace/divi-acf-masonry-gallery/)
 
 ## Divi Comprados
 * Divi Blog [link](https://www.elegantthemes.com/marketplace/ultimate-divi-blog-modules-ui-bundle/)
@@ -24,5 +25,5 @@
 
 ## Dicas
 * Menu icone social [link](https://www.peeayecreative.com/how-to-add-icons-to-the-divi-menu/)
-* Divi - Medida imagem (https://www.peeayecreative.com/how-to-stop-divi-image-crop/)
-* Divi - Media imagem css (https://www.peeayecreative.com/change-the-divi-blog-image-aspect-ratio/)
+* Divi - Medida imagem [link]((https://www.peeayecreative.com/how-to-stop-divi-image-crop/)
+* Divi - Media imagem css [link]((https://www.peeayecreative.com/change-the-divi-blog-image-aspect-ratio/)
